@@ -1,0 +1,43 @@
+.post_detail {
+    margin-bottom: 2em;
+}
+
+.post_detail img{
+    max-width: 600px;
+    width: 100%;
+}
+
+.post_detail h2 {
+    max-width: 600px;
+    width: 100%;
+    margin-bottom: .4em;
+}
+
+.post_detail .tags {
+    max-width: 600px;
+  display: flex;
+  flex-wrap: wrap;            
+  gap: 0.6rem;                
+  margin-bottom: 1.5em;
+  justify-content: flex-start; 
+}
+
+.post_detail .tags p {
+  background-color: #f0f0f0;
+  padding: 0.4rem 0.8rem;
+  border-radius: 10px;
+  font-size: 0.95rem;
+  color: #333;
+  white-space: nowrap;      
+}
+
+.tags span {
+    font-weight: bold;
+}
+
+.creatby {
+    font-size: italic;
+    color: #444;
+    font-size: 0.8em;
+    margin-bottom: 1em;
+}

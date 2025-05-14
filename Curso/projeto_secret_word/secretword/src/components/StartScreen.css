@@ -1,0 +1,19 @@
+.start {
+  display: flex;
+  flex-direction: column;
+  align-items: center;   
+  justify-content: center; 
+  height: 90vh;          
+  text-align: center;      
+}
+
+.start h1 {
+  font-size: 6.5em;
+}
+
+.start p {
+  margin-bottom: 100px;
+  color: #fad818;
+  font-size: 1.5em;
+}
+

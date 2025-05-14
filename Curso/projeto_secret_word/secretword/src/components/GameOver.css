@@ -1,0 +1,17 @@
+.game_over {
+  display: flex;
+  flex-direction: column;
+  align-items: center;   
+  justify-content: center; 
+  height: 90vh;          
+  text-align: center;      
+}
+
+.game_over h1 {
+    font-size: 100px;
+}
+
+.game_over h2 span {
+    color: #ecfa00;
+    font-size: 1.5em;
+}
